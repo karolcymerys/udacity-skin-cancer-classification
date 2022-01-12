@@ -2,7 +2,7 @@
 This project was developed based on (Udacity GitHub repository)[https://github.com/udacity/dermatologist-ai].
 
 # ROC curve
-![ROC curve](figures/roc.png?raw=true "ROC curve")
+![ROC curve](figures/roc_curve.png?raw=true "ROC curve")
 
 
 # Confusion matrix
